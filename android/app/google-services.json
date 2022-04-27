@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716376837035",
+    "firebase_url": "https://myums-d73a3-default-rtdb.firebaseio.com",
+    "project_id": "myums-d73a3",
+    "storage_bucket": "myums-d73a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716376837035:android:14078fc6f5fa86812620ee",
+        "android_client_info": {
+          "package_name": "com.ravinshu.pixelexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716376837035-j4r547gbg1u19p6isl05vheub3irqkms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-l_OLOMLZr4Ymj-vSOKaS6QWLeXXCeCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716376837035-j4r547gbg1u19p6isl05vheub3irqkms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
